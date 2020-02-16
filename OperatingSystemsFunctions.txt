@@ -3,3 +3,6 @@ Booting:
 
 Memory management:
 - Memoery management is the process of controlling and cordinating memeory to various progreams with the operating system. Memory management is allocated based on specific memory "blocks" based on the needs of the user at the moment. Overall, this ensures that there is enough memory for various programs to be running at full efficeny.
+
+Data security:
+- Data security is the descriptor for a wide variety of privacy measures, policies and processes that protect against unathorized access and transmission of data. Through authentication(requiring passcodes, biometric data etc.) and encryption among other methods, user data is kept safe. The most important data is personal and finical, which can be used against the victim for the rest of their lives.
