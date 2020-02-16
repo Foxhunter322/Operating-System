@@ -1,0 +1,3 @@
+Booting:
+- Booting is the process of starting up your computer's operating system. This is performed through a bootseqeunce which is the intial set of operations to turn the system on and get it running. The Boot device is the device in which the booting sequence is performed.
+
